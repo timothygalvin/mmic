@@ -1,4 +1,5 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="id-1164a66961ea439d88955224fd15bbb7"/>
+    name="test view 2"
+    id="id-1164a66961ea439d88955224fd15bbb7"
+    viewpoint="business_process_cooperation"/>
