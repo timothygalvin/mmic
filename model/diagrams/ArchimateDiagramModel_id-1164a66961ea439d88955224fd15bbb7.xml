@@ -1,5 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="test view 2"
     id="id-1164a66961ea439d88955224fd15bbb7"
-    viewpoint="business_process_cooperation"/>
+    viewpoint="business_process_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2bea4df80ead40559216f7c6e6eaa311">
+    <bounds
+        x="174"
+        y="243"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-0d843d1daae745f9a639ddedd21081ce.xml#id-0d843d1daae745f9a639ddedd21081ce"/>
+  </children>
+</archimate:ArchimateDiagramModel>
