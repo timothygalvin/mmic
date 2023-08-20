@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="test view 2"
+    name="test view"
     id="id-1164a66961ea439d88955224fd15bbb7"
     viewpoint="business_process_cooperation">
   <children
@@ -81,5 +81,16 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-ea03b395499242d5b3c89553c820c0af.xml#id-ea03b395499242d5b3c89553c820c0af"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fd2c9217034d43d7af6b1dbe397dbe2b"
+      textAlignment="1"
+      content="this is a note">
+    <bounds
+        x="457"
+        y="254"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
