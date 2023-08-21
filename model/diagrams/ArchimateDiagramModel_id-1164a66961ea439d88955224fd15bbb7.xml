@@ -86,7 +86,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-fd2c9217034d43d7af6b1dbe397dbe2b"
       textAlignment="1"
-      content="this is a note">
+      content="this is a note&#xA;... updated just now 21/august/2023">
     <bounds
         x="457"
         y="254"
