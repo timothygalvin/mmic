@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deviation Capture (copy) (copy)"
+    id="id-577b7e41346c4b5b93b74460d2df151d"
+    documentation="Report by exception approach&#xD;&#xA;Real-time execution system needs to see that the system is in an acceptable state to move to the next stage of the process&#xD;&#xA;"/>

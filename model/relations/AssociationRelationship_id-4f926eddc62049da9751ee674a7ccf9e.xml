@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="drives"
+    id="id-4f926eddc62049da9751ee674a7ccf9e">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-728fa72f297f460881bb107732eecc11.xml#id-728fa72f297f460881bb107732eecc11"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3dda0e94a3c649148c62a562d2fc70e5.xml#id-3dda0e94a3c649148c62a562d2fc70e5"/>
+</archimate:AssociationRelationship>

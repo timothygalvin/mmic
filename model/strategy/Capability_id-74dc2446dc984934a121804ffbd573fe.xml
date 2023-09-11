@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement"
+    id="id-74dc2446dc984934a121804ffbd573fe"
+    documentation="Linked to asset tracking at data layer below- repeat purchase and one offs too. Would be captured in different data flows. "/>

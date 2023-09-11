@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Material Management (copy) (copy)"
+    id="id-1ca0f93f45874731b1e9da033ba37300"
+    documentation="All materials in supply chain which will include movement and management&#xD;&#xA;Includes eBR records dispensing etc. through MES and shop floor control. &#xD;&#xA;Product control track and trace e.g. SAP controlled (know where teh product has gone and understand where in the supply chain process it is i.e. serialisation (pack and ID management). "/>
