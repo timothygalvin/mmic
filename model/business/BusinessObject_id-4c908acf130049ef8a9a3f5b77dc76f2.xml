@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sensor"
-    id="id-4c908acf130049ef8a9a3f5b77dc76f2"/>
+    id="id-4c908acf130049ef8a9a3f5b77dc76f2"
+    documentation="&#xA;Includes:&#xA; - sensor parameters&#xA; - etc.."/>

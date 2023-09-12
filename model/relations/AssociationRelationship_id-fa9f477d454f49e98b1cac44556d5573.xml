@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="places"
+    id="id-fa9f477d454f49e98b1cac44556d5573"
+    documentation="&#xA;">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3db36243408b4303ae39e3423bbf05b4.xml#id-3db36243408b4303ae39e3423bbf05b4"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-97a64973d5d0420581893e0021d6ef7a.xml#id-97a64973d5d0420581893e0021d6ef7a"/>
+</archimate:AssociationRelationship>

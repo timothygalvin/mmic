@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PAT Equipment"
-    id="id-715c464eb32941cbb08e3e2b8671d103"/>
+    name="Process Analytical Technology Sensor"
+    id="id-715c464eb32941cbb08e3e2b8671d103"
+    documentation="aka PAT, this is a type of equipment sensor that is used on-line to collect process data for monitoring, control and analysis."/>

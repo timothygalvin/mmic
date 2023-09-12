@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fulfils"
+    id="id-56461ac7f8834ac3a300fde7166a2a60">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3db36243408b4303ae39e3423bbf05b4.xml#id-3db36243408b4303ae39e3423bbf05b4"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-89f8547a00b2425a8e44e2623b16e2a0.xml#id-89f8547a00b2425a8e44e2623b16e2a0"/>
+</archimate:AssociationRelationship>
